@@ -1,3 +1,9 @@
+# Credit
+
+The original Kaptive project was found under [katholt's repository](https://github.com/katholt/Kaptive).
+
+They have a [separate repository for the web application](https://github.com/kelwyres/Kaptive-Web). This one is by kelwyres.
+
 # How to use
 
 1. Clone this repo:
