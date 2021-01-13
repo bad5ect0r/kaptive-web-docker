@@ -1,0 +1,210 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+9ëkr‰umí	extras/Example_close_match.png	/^ª·{‡Ç\/’_½ö‘Ç—v••ŸF˜D8¬„{î×¥–ßUòò[Ëšÿú@ş~åU±EÂüáïñé‘ş—òÚ½)ÿ²úcYvS‘á×¸ö·²+‚æ¨¶¶ÆJÄ=lß^Òë¾/;"	v
+AC	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+Calendar	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+Config	__init__.py	/^Config = ConfigParser.ConfigParser()$/;"	v
+Config	controllers/default.py	/^Config = ConfigParser.ConfigParser()$/;"	v
+DEVELOPMENT_MENU	models/menu.py	/^DEVELOPMENT_MENU = True$/;"	v
+F	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+FONT	controllers/appadmin.py	/^    def FONT(*args, **kwargs):$/;"	f	function:table_template	file:
+G	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+GetInHMS	controllers/appadmin.py	/^    def GetInHMS(seconds):$/;"	f	function:ccache	file:
+H	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+Iæ	static/fonts/glyphicons-halflings-regular.eot	/^Â+H|ÌÆ?´NKÌ4ŒÆ’ÓCnPtè³$/;"	v
+K	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+P	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+Q	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+R	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+S	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+T	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+U	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+X	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+Y	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+Z	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+_	models/menu.py	/^def _():$/;"	f
+_C	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+a	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+add_job_to_queue	models/job_process.py	/^def add_job_to_queue(job_queue_path, job_uuid, no_of_fastas, retry=0):$/;"	f
+ajax	static/js/web2py.js	/^ajax = jQuery.web2py.ajax;$/;"	v
+append_to_table	models/file_process.py	/^def append_to_table(f, line):$/;"	f
+auth	models/db.py	/^auth = Auth(db, host_names=myconf.get('host.names'))$/;"	v
+author	private/appconfig.ini	/^author      = Melbourne eResearch Group <rsinnott@unimelb.edu.au>$/;"	v
+available_worker	__init__.py	/^available_worker = multiprocessing.cpu_count() - 1$/;"	v
+available_worker	controllers/default.py	/^    available_worker = init_job_data['Available worker']$/;"	v
+backup_file	models/file_process.py	/^def backup_file(src, dst):$/;"	f
+base_path	controllers/default.py	/^base_path = Config.get('Path', 'base_path')$/;"	v
+base_path	settings.ini	/^base_path = \/opt\/web2py\/applications\/kaptive\/$/;"	v
+bg_graph_model	controllers/appadmin.py	/^def bg_graph_model():$/;"	f
+blast_count	controllers/default.py	/^blast_count = len(blast_procs)$/;"	v
+blast_procs	controllers/default.py	/^blast_procs = [proc for proc in procs if 'blast' in proc]$/;"	v
+build_job_dict	models/file_process.py	/^def build_job_dict(uuid, reference, submit_time, fastafiles, no_of_fastas, upload_path):$/;"	f
+build_job_list	models/file_process.py	/^def build_job_list(job_list, fastafile, seq):$/;"	f
+build_meta_json	models/file_process.py	/^def build_meta_json(uuid, job_name, fastafiles, no_of_fastas, reference, submit_time):$/;"	f
+c	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+call	controllers/default.py	/^def call():$/;"	f
+captcha	controllers/default.py	/^captcha = Config.getboolean('Security', 'captcha')$/;"	v
+captcha	settings.ini	/^captcha = yes$/;"	v
+captcha_field	models/recaptcha.py	/^def captcha_field(request=request):$/;"	f
+captcha_field	tags	/^captcha_field	models\/recaptcha.py	\/^def captcha_field(request=request):$\/;"	f$/;"	f
+ccache	controllers/appadmin.py	/^def ccache():$/;"	f
+collapse	static/js/web2py.js	/^collapse = jQuery.web2py.collapse;$/;"	v
+confirmation	controllers/default.py	/^def confirmation():$/;"	f
+consume_worker	models/job_process.py	/^def consume_worker(job_queue_path, upload_path, retry=0):$/;"	f
+create_table_file	models/file_process.py	/^def create_table_file(reference_db):$/;"	f
+csv	controllers/appadmin.py	/^def csv():$/;"	f
+d	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+data	__init__.py	/^    data = OrderedDict()$/;"	v
+data	__init__.py	/^    data = read_json_from_file(job_queue_path)$/;"	v
+databases	controllers/appadmin.py	/^databases = get_databases(None)$/;"	v
+db	models/db.py	/^    db = DAL(myconf.get('db.uri'),$/;"	v
+description	private/appconfig.ini	/^description = Webfront for Kaptive command line tool$/;"	v
+download	controllers/appadmin.py	/^def download():$/;"	f
+download	controllers/default.py	/^def download():$/;"	f
+download_path	controllers/default.py	/^download_path = Config.get('Path', 'download_path')$/;"	v
+download_path	settings.ini	/^download_path = \/opt\/web2py\/applications\/kaptive\/downloads\/$/;"	v
+draw_locus_image	models/job_process.py	/^def draw_locus_image(reference_db, job_result_path, upload_path, job_uuid, seq_no):$/;"	f
+eval_in_global_env	controllers/appadmin.py	/^def eval_in_global_env(text):$/;"	f
+fade	static/js/web2py.js	/^fade = jQuery.web2py.fade;$/;"	v
+formstyle	private/appconfig.ini	/^formstyle = bootstrap3_inline$/;"	v
+g	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+generator	private/appconfig.ini	/^generator   = Web2py Web Framework$/;"	v
+get_compression_type	models/file_process.py	/^def get_compression_type(filename):$/;"	f
+get_database	controllers/appadmin.py	/^def get_database(request):$/;"	f
+get_databases	controllers/appadmin.py	/^def get_databases(request):$/;"	f
+get_png	controllers/default.py	/^def get_png():$/;"	f
+get_query	controllers/appadmin.py	/^def get_query(request):$/;"	f
+get_svg	controllers/default.py	/^def get_svg():$/;"	f
+get_table	controllers/appadmin.py	/^def get_table(request):$/;"	f
+global_env	controllers/appadmin.py	/^global_env = copy.copy(globals())$/;"	v
+graph_model	controllers/appadmin.py	/^def graph_model():$/;"	f
+hooks	controllers/appadmin.py	/^def hooks():$/;"	f
+http_host	controllers/appadmin.py	/^http_host = request.env.http_host.split(':')[0]$/;"	v
+ignore_rw	controllers/appadmin.py	/^ignore_rw = True$/;"	v
+import_csv	controllers/appadmin.py	/^def import_csv(table, file):$/;"	f
+index	controllers/appadmin.py	/^def index():$/;"	f
+index	controllers/default.py	/^def index():$/;"	f
+init_job_data	controllers/default.py	/^init_job_data = read_json_from_file(job_queue_path)$/;"	v
+init_t	controllers/default.py	/^        init_t = threading.Thread(target=consume_worker, args=(job_queue_path, upload_path, ))$/;"	v
+insert	controllers/appadmin.py	/^def insert():$/;"	f
+is_file_fasta	models/file_process.py	/^def is_file_fasta(filename):$/;"	f
+is_gae	controllers/appadmin.py	/^is_gae = request.env.web2py_runtime_gae or False$/;"	v
+job_data	__init__.py	/^        job_data = read_json_from_file(job_list_path)$/;"	v
+job_json_lock	controllers/default.py	/^job_json_lock = threading.Lock()$/;"	v
+job_list_lock	controllers/default.py	/^job_list_lock = threading.Lock()$/;"	v
+job_list_path	__init__.py	/^        job_list_path = os.path.join(upload_path, i[0], 'job_list.json')$/;"	v
+job_name	__init__.py	/^                job_name = j['Fasta file']$/;"	v
+job_queue	__init__.py	/^    job_queue = data['Job queue']$/;"	v
+job_queue_path	__init__.py	/^job_queue_path = os.path.join(queue_path, 'queue')$/;"	v
+job_queue_path	controllers/default.py	/^job_queue_path = os.path.join(queue_path, 'queue')$/;"	v
+job_seq	__init__.py	/^                job_seq = j['Job seq']$/;"	v
+job_table_lock	controllers/default.py	/^job_table_lock = threading.Lock()$/;"	v
+job_waiting_time	controllers/default.py	/^job_waiting_time = Config.get('General', 'job_waiting_time')$/;"	v
+job_waiting_time	settings.ini	/^job_waiting_time = 60$/;"	v
+jobs	controllers/default.py	/^def jobs():$/;"	f
+key_table	controllers/appadmin.py	/^    def key_table(keys):$/;"	f	function:ccache	file:
+keywords	private/appconfig.ini	/^keywords    = web2py, python, framework$/;"	v
+le	models/job_process.py	/^    import lxml.etree as le$/;"	I	function:draw_locus_image	file:
+lock_file	models/file_lock.py	/^def lock_file(file):$/;"	f
+logger	controllers/default.py	/^logger = logging.getLogger("kaptive")$/;"	v
+login	private/appconfig.ini	/^login  = username:password$/;"	v
+mail	models/db.py	/^mail = auth.settings.mailer$/;"	v
+manage	controllers/appadmin.py	/^def manage():$/;"	f
+manager_action	controllers/appadmin.py	/^        manager_action = dict(role=auth.settings.auth_manager_role,$/;"	v
+manager_action	controllers/appadmin.py	/^    manager_action = auth.settings.manager_actions.get(request.args(0), None)$/;"	v
+manager_role	controllers/appadmin.py	/^    manager_role = manager_action.get('role', None) if manager_action else None$/;"	v
+menu	controllers/appadmin.py	/^    menu = False$/;"	v
+menu	controllers/appadmin.py	/^    menu = True$/;"	v
+migrate	private/appconfig.ini	/^migrate   = true$/;"	v
+myconf	models/db.py	/^myconf = AppConfig(reload=True)$/;"	v
+name	private/appconfig.ini	/^name        = Kaptive$/;"	v
+names	private/appconfig.ini	/^names = localhost:*, 127.0.0.1:*, *:*, *$/;"	v
+pending_jobs	controllers/default.py	/^            pending_jobs = pending_jobs + i[1]$/;"	v
+pending_jobs	controllers/default.py	/^    pending_jobs = 0$/;"	v
+pgv	controllers/appadmin.py	/^    import pygraphviz as pgv$/;"	I
+pgv	controllers/appadmin.py	/^    pgv = None$/;"	v
+plugins	models/db.py	/^plugins = PluginManager()$/;"	v
+pool_size	private/appconfig.ini	/^pool_size = 10 ; ignored for sqlite$/;"	v
+popup	static/js/web2py.js	/^popup = jQuery.web2py.popup;$/;"	v
+posX	static/js/calendar.js	/^Calendar=function(J,K,H,G){this.activeDiv=null;this.currentDateEl=null;this.getDateStatus=null;t/;"	v
+possible_languages	routes.example.py	/^possible_languages = read_possible_languages(abspath('applications', app))$/;"	v
+process_gz_file	models/file_process.py	/^def process_gz_file(file_dir, filename):$/;"	f
+process_result	models/job_process.py	/^def process_result(job_file_path, job_queue_path, upload_path, job_result_path, job_table_path, /;"	f
+process_zip_file	models/file_process.py	/^def process_zip_file(file_dir, filename):$/;"	f
+processing_queue	__init__.py	/^    processing_queue = data['Processing queue']$/;"	v
+procs	controllers/default.py	/^procs = subprocess.check_output(['ps', 'uaxw']).splitlines()$/;"	v
+query_by_table_type	controllers/appadmin.py	/^def query_by_table_type(tablename, db, request=request):$/;"	f
+queue_lock	controllers/default.py	/^queue_lock = threading.Lock()$/;"	v
+queue_path	__init__.py	/^queue_path = Config.get('Path', 'queue_path')$/;"	v
+queue_path	controllers/default.py	/^queue_path = Config.get('Path', 'queue_path')$/;"	v
+queue_path	settings.ini	/^queue_path = \/opt\/web2py\/applications\/kaptive\/queue\/$/;"	v
+read_json_from_file	__init__.py	/^def read_json_from_file(f):$/;"	f
+read_json_from_file	models/file_process.py	/^def read_json_from_file(f):$/;"	f
+read_svg	models/svg_process.py	/^def read_svg(path):$/;"	f
+read_svg	tags	/^read_svg	models\/svg_process.py	\/^def read_svg(path):$\/;"	f$/;"	f
+reference_database_path	controllers/default.py	/^reference_database_path = Config.get('Path', 'reference_database_path')$/;"	v
+reference_database_path	settings.ini	/^reference_database_path = \/opt\/web2py\/applications\/kaptive\/reference_database\/$/;"	v
+refresh_waiting_time	controllers/default.py	/^refresh_waiting_time = Config.get('General', 'refresh_waiting_time')$/;"	v
+refresh_waiting_time	settings.ini	/^refresh_waiting_time = 60000$/;"	v
+release_job	models/job_process.py	/^def release_job(job_queue_path, job_uuid, retry=0):$/;"	f
+release_worker	models/job_process.py	/^def release_worker(job_queue_path, retry=0):$/;"	f
+remote_addr	controllers/appadmin.py	/^remote_addr = request.env.remote_addr$/;"	v
+result	controllers/default.py	/^def result():$/;"	f
+routers	routes.example.py	/^routers = {$/;"	v
+routers	routes.py	/^routers = dict( $/;"	v
+run_kaptive	models/job_process.py	/^def run_kaptive(job_uuid, seq_no, fastafile, reference_db):$/;"	f
+run_script	models/job_process.py	/^def run_script(job_queue_path, upload_path, job_uuid, retry=0):$/;"	f
+save_json_to_file	__init__.py	/^def save_json_to_file(f, json_string):$/;"	f
+save_json_to_file	models/file_process.py	/^def save_json_to_file(f, json_string):$/;"	f
+select	controllers/appadmin.py	/^def select():$/;"	f
+sender	private/appconfig.ini	/^sender = you@gmail.com$/;"	v
+separator	private/appconfig.ini	/^separator =$/;"	v
+server	private/appconfig.ini	/^server = smtp.gmail.com:587$/;"	v
+service	models/db.py	/^service = Service()$/;"	v
+ssl	private/appconfig.ini	/^ssl    = true$/;"	v
+state	controllers/appadmin.py	/^def state():$/;"	f
+table_template	controllers/appadmin.py	/^def table_template(table):$/;"	f
+tls	private/appconfig.ini	/^tls    = true$/;"	v
+ts	controllers/appadmin.py	/^    ts = TicketStorage()$/;"	v
+types	controllers/appadmin.py	/^    def types(field):$/;"	f	function:table_template	file:
+unlock_file	models/file_lock.py	/^def unlock_file(file):$/;"	f
+update	controllers/appadmin.py	/^def update():$/;"	f
+upload_file	models/file_process.py	/^def upload_file(file, filename=None, path=None):$/;"	f
+upload_path	__init__.py	/^upload_path = Config.get('Path', 'upload_path')$/;"	v
+upload_path	controllers/default.py	/^upload_path = Config.get('Path', 'upload_path')$/;"	v
+upload_path	settings.ini	/^upload_path = \/opt\/web2py\/applications\/kaptive\/uploads\/$/;"	v
+uri	private/appconfig.ini	/^uri       = sqlite:\/\/storage.sqlite$/;"	v
+user	controllers/default.py	/^def user():$/;"	f
+val	static/js/jtip.js	/^      val = val.replace(\/\\+\/g, ' ');$/;"	v
+w	models/recaptcha.py	/^    w = lambda x, y: Recaptcha2(request,$/;"	f	function:captcha_field	file:
+web2py_ajax_fields	static/js/web2py.js	/^web2py_ajax_fields = jQuery.web2py.ajax_fields;$/;"	v
+web2py_ajax_init	static/js/web2py.js	/^web2py_ajax_init = jQuery.web2py.ajax_init;$/;"	v
+web2py_ajax_page	static/js/web2py.js	/^web2py_ajax_page = jQuery.web2py.ajax_page;$/;"	v
+web2py_calc_entropy	static/js/web2py.js	/^web2py_calc_entropy = jQuery.web2py.calc_entropy;$/;"	v
+web2py_component	static/js/web2py.js	/^web2py_component = jQuery.web2py.component;$/;"	v
+web2py_event_handlers	static/js/web2py.js	/^web2py_event_handlers = jQuery.web2py.event_handlers;$/;"	v
+web2py_trap_form	static/js/web2py.js	/^web2py_trap_form = jQuery.web2py.trap_form;$/;"	v
+web2py_trap_link	static/js/web2py.js	/^web2py_trap_link = jQuery.web2py.trap_link;$/;"	v
+web2py_validate_entropy	static/js/web2py.js	/^web2py_validate_entropy = jQuery.web2py.validate_entropy;$/;"	v
+web2py_websocket	static/js/web2py.js	/^web2py_websocket = jQuery.web2py.web2py_websocket;$/;"	v
+write_svg	models/svg_process.py	/^def write_svg(tree, out_path):$/;"	f
+write_svg	tags	/^write_svg	models\/svg_process.py	\/^def write_svg(tree, out_path):$\/;"	f$/;"	f
+write_to_result_json	models/result_process.py	/^def write_to_result_json(job_result_path, result_path, seq_no, retry = 0):$/;"	f
+write_to_result_table	models/result_process.py	/^def write_to_result_table(result_path, final_result_path, job_uuid, seq_no):$/;"	f
+xmlns	extras/Example_broken_assembly.png	/^            xmlns:exif="http:\/\/ns.adobe.com\/exif\/1.0\/">$/;"	v
+xmlns	extras/Example_close_match.png	/^            xmlns:exif="http:\/\/ns.adobe.com\/exif\/1.0\/">$/;"	v
+xmlns	extras/Example_more_distant_match.png	/^            xmlns:exif="http:\/\/ns.adobe.com\/exif\/1.0\/">$/;"	v
+xmlns	extras/Example_novel_locus.png	/^            xmlns:exif="http:\/\/ns.adobe.com\/exif\/1.0\/">$/;"	v
+xmlns	extras/Example_novel_variant.png	/^            xmlns:exif="http:\/\/ns.adobe.com\/exif\/1.0\/">$/;"	v
+xmlns	extras/Example_variant_database_run.png	/^            xmlns:exif="http:\/\/ns.adobe.com\/exif\/1.0\/">$/;"	v
+¦	extras/Example_more_distant_match.png	/^^Ú¼%sóÑıˆ?Wø:tCZ¿apôÓÅòÖ÷5 öÁaH;ÕM[§ÃİÖó»¢™ªµÅòûo_kvÆxÊ}ÁÛ²îûok$3'àÖ„ö¢0ß´4r—W§&öİSúˆO±ìY/;"	v
+§G	extras/Example_close_match.png	/^‰~•ÜpIvˆ÷Glqw9{Iyãêù©ÆM\/[îøÕ_Êº¿ûÃû¹{n’ç¼¾ñ(¦JÇÃ?’å÷üWJå·Ìó†¹äûr‰‡³÷âwÜ)õ$/;"	v
+É	extras/Example_broken_assembly.png	/^4Şç´À3¢¦y¿<ûì3ú O›>ô`?,à7P~£–öm5ºe™ù¤¨x¡ÔUİ	l;­èæÌ™£Gå©§†×JØ¬Î??R7F§Ê7@`è!` |~gE]£/;"	v
+áelã¼	extras/Example_novel_locus.png	/^ÊÂÎQH”|øxµ>œÜTgÃ‚¿¸ÈÁO'ªŸäÃqûcÅ~R÷±M£_Ú—pßğ²Æg_ØÛ×2W”èA«ùXS¯®£pU§M X¶ß‰a#Y€ı½¹›/;"	v
+ı´Óí	extras/Example_more_distant_match.png	/^êØ3îeşÅ\\æÙoÙo¾i›$/;"	v
